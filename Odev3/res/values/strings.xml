@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image_name">The Starry Night</string>
+    <string name="artist_name">Vincent Van Gogh</string>
+    <string name="image_description">The Starry Night is a famous painting by Vincent van Gogh from 1889, depicting a night scene filled with emotion and imagination.</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+</resources>

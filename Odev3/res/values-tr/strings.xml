@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image_name">Yıldızlı Gece</string>
+    <string name="artist_name">Vincent Van Gogh</string>
+    <string name="image_description">Yıldızlı Gece, Vincent van Gogh’un 1889’da yaptığı, duygusal ve hayal gücüyle bezeli gece manzarasını betimleyen ünlü bir tablodur.</string>
+    <string name="previous_button">Önceki</string>
+    <string name="next_button">Sonraki</string>
+
+
+</resources>
